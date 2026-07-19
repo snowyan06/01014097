@@ -1,0 +1,10 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÓíÈşü2J$9b4c55d6-583b-4603-adad-b1540a9229c8
+d	java:S131e""Add a default case to this switch.(°Ó÷8¢ÆÌÚı2J$4627aac1-ae1e-41b7-b9fb-43ad62618525
+–
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(„××¨8¨ó¬Ëş2J$a0723da8-26d9-4778-ba3a-03e9bb57b49b
+–
+java:S6204˜"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(„××¨8¡êÌËş2J$d0ba1a2b-ff52-4430-8a93-bf134b4ca9cc
+p
+java:S6204¥"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(„××¨8ÍÉâÕş2

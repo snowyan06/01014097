@@ -1,0 +1,13 @@
+
+†
+java:S2184C"CCast one of the operands of this subtraction operation to a "long".(ì·‘8Ï—¥Ÿş2J$bfbb62cd-1190-4098-a57e-8c5cb50d5a5c
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8š†İş2J$7cf52e41-c87b-41b6-a6b8-7d851208c569
+•
+java:S6204N"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8±°ÌŸş2J$0e385d3d-0fb7-4218-a7e9-f105141892f4
+•
+java:S6204Y"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8²°ÌŸş2J$38fdbc43-07b4-4f23-9380-cd12cfb3b173
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8‚ÖşËÿ2
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8‚ÖşËÿ2

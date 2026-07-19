@@ -1,0 +1,7 @@
+
+•
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Ëö˜Éş2J$ee4a4b1f-18d5-4040-b889-ef1312fcdb3e
+•
+java:S6204&"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Ã†Éş2J$3c7f5f4e-ceab-40a8-9a2c-d019b9314351
+‚
+java:S6213*":Rename this variable to not match a restricted identifier.(‰×ùıÿÿÿÿ8ÓÑŸ®ş2J$ef2ef47c-710e-4726-9042-d110b3db5dd1

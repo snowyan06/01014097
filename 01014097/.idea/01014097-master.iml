@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/EduGenius/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/Edu_platform/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Edu_py/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/.venv/Lib/site-packages/ffmpeg" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/.venv/Lib/site-packages/ffmpeg_python-0.2.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/.venv/Lib/site-packages/gradio/_frontend_code/dataset" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/.venv/Lib/site-packages/tensorflow/core/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/.venv/Lib/site-packages/tensorflow/include/external/com_github_grpc_grpc/src/core/lib/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/.venv/Lib/site-packages/tensorflow/include/tensorflow/core/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/.venv/Lib/site-packages/tensorflow/python/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/.venv/Lib/site-packages/torch/distributed/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/.venv/Lib/site-packages/torch/distributed/tensor/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/.venv/Lib/site-packages/werkzeug/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/avatar_env/Lib/site-packages/ffmpeg" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/avatar_env/Lib/site-packages/ffmpeg_python-0.2.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/avatar_env/Lib/site-packages/gradio/_frontend_code/dataset" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/avatar_env/Lib/site-packages/tensorflow/core/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/avatar_env/Lib/site-packages/tensorflow/include/external/com_github_grpc_grpc/src/core/lib/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/avatar_env/Lib/site-packages/tensorflow/include/tensorflow/core/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/avatar_env/Lib/site-packages/tensorflow/python/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/avatar_env/Lib/site-packages/torch/distributed/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/avatar_env/Lib/site-packages/torch/distributed/tensor/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/avatar_env/Lib/site-packages/werkzeug/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/face_detection/weights/.cache/huggingface/download" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/musetalk/utils/face_detection/detection/sfd/.cache/huggingface/download" />
+      <excludeFolder url="file://$MODULE_DIR$/avatar_py/results" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
